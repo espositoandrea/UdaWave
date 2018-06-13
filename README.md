@@ -1,4 +1,5 @@
 # UdaWave
+![UdaWave Logo](/src/resources/icon.png)
 ## Authors
 |   Name   |  Surname  |
 |:--------:|:---------:|
