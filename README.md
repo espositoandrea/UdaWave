@@ -1,5 +1,5 @@
+![UdaWave Logo](/src/resources/icon.png)
 # UdaWave
-![UdaWave Logo](/src/resources/icon.png =20x20)
 ## Authors
 |   Name   |  Surname  |
 |:--------:|:---------:|
