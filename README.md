@@ -1,5 +1,5 @@
-<img src="/src/resources/icon.png" alt="UdaWave Logo" width="64px">
-# UdaWave
+# <img src="/src/resources/icon.png" alt="UdaWave Logo" width="50px"> UdaWave
+
 ## Authors
 |   Name   |  Surname  |
 |:--------:|:---------:|
