@@ -26,14 +26,3 @@ We have chosen to create a software for *on demand music*. It has some of the ba
 Here are some important links regarding this project.
 - <a href="downloadable/Documentazione.pdf" download>Project Documentation (**ITA**)</a>
 - <a href="https://github.com/mineand99/UdaWave" target="_blank">Source code (**GitHub**)</a>
-
-### Software Modules
-This is the graph of the dependencies of the various modules of the software. The circle represents the sofware itself (the *main file*); the rectangles represents the various modules.
-
-
-graph LR
-A((UdaWave)) --> B[Song]
-A --> C[User]
-B --> D[Utilities]
-C --> D
-A --> D
