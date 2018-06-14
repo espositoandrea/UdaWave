@@ -1,12 +1,40 @@
 /*
  ============================================================================
- Name        : UdaWave
- Author      : Andrea Esposito (677021) & Graziano Montanaro (677909)
- Version     : 0.0.1
- A.A.        : 2017/2018
- Description : Caso di studio - Traccia 3 (Musica on Demand)
- 	 	 	   	   	   Laboratorio di Informatica
+ Authors     : Andrea Esposito (677021) & Graziano Montanaro (677909)
  ============================================================================
+ */
+ 
+/*!
+ * @mainpage UdaWave
+ *
+ * # Brief description
+ * <dl>
+ * <dt>Name</dt>
+ * <dd>UdaWave</dd>
+ * <dt>Version</dt>
+ * <dd>&alpha; 0.0.1</dd>
+ * <dt>Academic Year</dt>
+ * <dd>2017/2018</dd>
+ * <dt>Authors</dt>
+ * <dd>
+ *	  <ul>
+ *		  <li>Andrea <strong>Esposito</strong></li>
+ *		  <li>Graziano <strong>Montanaro</strong>
+ *	  </ul>
+ *	  We are two **I.C.T. students** from *Taranto*. This software and documentation has been 
+ *    created as part of an exam.
+ * </dd>
+ * <dt>Brief project's description</dt>
+ * <dd>Computer lab's exam - <i>On Demand Music</i> program.</dd>
+ * </dl>
+ * 
+ * # The Project
+ * We have chosen to create a software for *on demand music*. It has some of the basic functions 
+ * of other apps (like *Spotify*), except for the music itself (due to copyright reasons).
+ * ## Important Links
+ * Here are some important links regarding this project.
+ * - <a href="downloadable/Documentazione.pdf" download>Project Documentation (**ITA**)</a>
+ * - <a href="https://github.com/mineand99/UdaWave" target="_blank">Source code (**GitHub**)</a>
  */
  
 /**
@@ -22,30 +50,6 @@
  * @authors Andrea Esposito, Graziano Montanaro
  * @copyright No copyright informations provided.
  */
-
-
-/*!
- * @mainpage UdaWave
- *
- * \section authors Authors
- * |   Name   |  Surname  |
- * |:--------:|:---------:|
- * |  Andrea  |  Esposito |
- * | Graziano | Montanaro |
- *
- * We are two **I.C.T. students** from *Taranto*. This software and documentation has been created
- * as part of an exam.
- *
- * \section project_info The Project
- * We have chosen to create a software for *on demand music*. It has some of
- * the basic functions of other apps (like *Spotify*), except for the music itself (due to
- * copyright reasons).
- * \subsection links Important Links
- * Here are some important links regarding this project.
- * - <a href="downloadable/Documentazione.pdf" download>Project Documentation (**ITA**)</a>
- * - <a href="https://github.com/mineand99/UdaWave">Source code (**GitHub**)</a>
- */
-
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -104,7 +108,7 @@ int main(void)
 {
 	setvbuf(stdout, NULL, _IONBF, 0);
 
-	system("color 0a");
+	system("color 0b");
 	setConsoleTitle(APP_NAME);
 
 	Song songs[MAX_SONGS_NUMBER];
