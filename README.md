@@ -30,11 +30,10 @@ Here are some important links regarding this project.
 ### Software Modules
 This is the graph of the dependencies of the various modules of the software. The circle represents the sofware itself (the *main file*); the rectangles represents the various modules.
 
-```mermaid
+
 graph LR
 A((UdaWave)) --> B[Song]
 A --> C[User]
 B --> D[Utilities]
 C --> D
 A --> D
-```
