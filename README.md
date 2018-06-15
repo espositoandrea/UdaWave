@@ -10,14 +10,14 @@
   <dd>2017/2018</dd>
   <dt>Authors</dt>
   <dd>
-	  <ul>
-		  <li>Andrea <strong>Esposito</strong></li>
-		  <li>Graziano <strong>Montanaro</strong>
-	  </ul>
-	  We are two **I.C.T. students** from *Taranto*. This software and documentation has been created as part of an exam.
+    <ul>
+      <li>Andrea <strong>Esposito</strong></li>
+      <li>Graziano <strong>Montanaro</strong>
+    </ul>
+    We are two <strong>I.C.T. students</strong> from <em>Taranto</em>. This software and documentation has been created as part of an exam.
   </dd>
   <dt>Brief project's description</dt>
-  <dd>Computer lab's exam - <i>On Demand Music</i> program.</dd>
+  <dd>Computer lab's exam - <i>On Demand Music</i></dd>
 </dl>
 
 ## The Project
