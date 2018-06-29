@@ -31,8 +31,15 @@ int init_suite_dafault();
  */
 int clean_suite_dafault();
 
+//Test of Utilities
 void test_isNameValid();
 void test_isMailValid();
+void test_isDateValid();
+void test_getMusicGenreName();
+void test_getMusicGenreIndex();
+void test_isLeapYear();
+
+//Test of 
 
 extern int testingMain();
 
