@@ -20,14 +20,12 @@
 #include "../Utilities/Utilities.h"
 
 /*
- * Funzione di inizializzazione della suite sum.
- * Restituisce 0 in caso di successo.
+ * Funzione di inizializzazione di default per le suite di CUnit.
  */
 int init_suite_dafault();
 
 /*
- * Funzione di distruzione della suite sum.
- * Restituisce 0 in caso di successo.
+ * Funzione di distruzione di default per le suite di CUnit.
  */
 int clean_suite_dafault();
 
@@ -38,8 +36,6 @@ void test_isDateValid();
 void test_getMusicGenreName();
 void test_getMusicGenreIndex();
 void test_isLeapYear();
-
-//Test of 
 
 extern int testingMain();
 

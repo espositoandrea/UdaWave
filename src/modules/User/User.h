@@ -165,14 +165,14 @@ void removeSongFromPlaylist(User *user, Song songs[], int currentSongSize);
  * @param usersNumber The number of users.
  * @return A pointer to the new logged user.
  */
-User* login(User users[], int usersNumber);
+User* logIn(User users[], int usersNumber);
 
 /**
  * Log out from current session.
  *
  * @param[out] currentLoggedUser The current logged user that has to be logged out.
  */
-void logout(User **currentLoggedUser);
+void logOut(User **currentLoggedUser);
 
 /**
  * Modify favourite list.

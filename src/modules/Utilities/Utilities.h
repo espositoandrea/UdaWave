@@ -193,6 +193,6 @@ void getName(char *name, const char *typeOfName);
 * Prompts the user to insert an email and checks if the given value is valid.
 * @param[out] mail String where the mail will be saved.
 */
-void getEmail(char *mail);
+void getMail(char *mail);
 
 #endif

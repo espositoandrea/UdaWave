@@ -191,6 +191,14 @@ void insertDuration(struct Duration *duration);
 void addToSongsFile(Song *song);
 
 /**
+ * Update users' file.
+ *
+ * @param[in] songs The array of users.
+ * @param[in] size The size of the users' array.
+ */
+void modifySongsFile(Song songs[], int size);
+
+/**
 * Sort an array
 * This function sorts an array of Songs.
 *

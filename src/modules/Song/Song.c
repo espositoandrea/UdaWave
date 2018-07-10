@@ -17,6 +17,38 @@
 #include <string.h>
 #include <ctype.h>
 
+///This function updates the songs' file.
+void modifySongsFile(Song songs[], int size)
+{
+	FILE* songsFile;
+
+	if((songsFile = fopen("files/bin/songsList.csv", "w")) != NULL)
+	{
+		fprintf(songsFile, "codice,nome,album,artista,num_traccia,minuti,secondi,genere\n");
+
+		for(int i = 0; i < size; i++)
+		{
+			fprintf(songsFile, "%s,%s,%s,%s,%d,%d,%d,%s\n",
+				(songs + i)->code,
+				(songs + i)->name,
+				(songs + i)->albumName,
+				(songs + i)->artist,
+				(songs + i)->trackNumber,
+				(songs + i)->duration.min,
+				(songs + i)->duration.sec,
+				getMusicGenreName((songs + i)->genre));
+		}
+
+		fclose(songsFile);
+	}
+	else //if we couldn't open or create the file, print an error message and close the program.
+	{
+		printf("[404] ERRORE! IMPOSSIBILE MODIFICARE IL FILE DEI BRANI (files/bin/songsList.csv)\n");
+		system("pause");
+		fflush(stdin);
+		exit(404);
+	}
+}
 
 /**
 * This function adds a given song to the .csv user file.

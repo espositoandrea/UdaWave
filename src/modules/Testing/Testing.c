@@ -11,16 +11,14 @@
 #include "Testing.h"
 
 /*
- * Funzione di inizializzazione della suite sum.
- * Restituisce 0 in caso di successo.
+ * Funzione di inizializzazione di default per le suite di CUnit.
  */
 int init_suite_dafault(){
 	return 0;
 }
 
 /*
- * Funzione di distruzione della suite sum.
- * Restituisce 0 in caso di successo.
+ * Funzione di distruzione di default per le suite di CUnit.
  */
 int clean_suite_dafault(){
 	return 0;
@@ -141,7 +139,7 @@ extern int testingMain()
 	  return CU_get_error();
 	}
 
-	/* esegue i casi di test */
+	/* Run test */
 	CU_basic_set_mode(CU_BRM_VERBOSE);
 	CU_basic_run_tests();
 	CU_cleanup_registry();

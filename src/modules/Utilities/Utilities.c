@@ -364,7 +364,7 @@ void getName(char *name, const char *typeOfName)
 * This function inserts an email and checks if it could be an email.
 * If it can't, the function will ask for a new email.
 */
-void getEmail(char *mail)
+void getMail(char *mail)
 {
 	int isFirstTimeInput = 1;	//Used for error messages
 

@@ -172,60 +172,65 @@ void addFavourite(User **userToModify, User users[], int usersNumber, Song songs
 ///Called by `modifyFavourites`. Remove a favorite from a user's favorite list.
 void removeFavourite(User **userToModify, User users[], int usersNumber, Song songs[], int songsNumber)
 {
-	printf("\nBRANI PREFERITI:\n");
-	printSongsArray((*userToModify)->favouriteSongs, (*userToModify)->numberOfFavouriteSongs);
-	printf("\n");
-	char repeat;
-	do
+	if((*userToModify)->numberOfFavouriteSongs)
 	{
-		int numberOfFoundSongs;
-		Song** foundSongs;
-		Song favSongs[(*userToModify)->numberOfFavouriteSongs];
+		printf("\nBRANI PREFERITI:\n");
+		printSongsArray((*userToModify)->favouriteSongs, (*userToModify)->numberOfFavouriteSongs);
+		printf("\n");
+		char repeat;
 		do
 		{
-			printf("Si vuole ricercare per:\n"
-					"\t 1- Codice\n"
-					"\t 2- Titolo\n"
-					"Inserisci una scelta: ");
+			int numberOfFoundSongs;
+			Song** foundSongs;
+			Song favSongs[(*userToModify)->numberOfFavouriteSongs];
+			do
+			{
+				printf("Si vuole ricercare per:\n"
+						"\t 1- Codice\n"
+						"\t 2- Titolo\n"
+						"Inserisci una scelta: ");
 
-			int researchType = getInt(1,2);
+				int researchType = getInt(1,2);
 
-			for(int i = 0; i < (*userToModify)->numberOfFavouriteSongs; i++)
-				favSongs[i] = *((*userToModify)->favouriteSongs[i]);
+				for(int i = 0; i < (*userToModify)->numberOfFavouriteSongs; i++)
+					favSongs[i] = *((*userToModify)->favouriteSongs[i]);
 
-			foundSongs = searchSong(favSongs, (*userToModify)->numberOfFavouriteSongs, &numberOfFoundSongs, researchType, "");
-			if(foundSongs == NULL)
-				printf("Nessun riscontro con i criteri inseriti.\n");
-		} while(foundSongs == NULL);
+				foundSongs = searchSong(favSongs, (*userToModify)->numberOfFavouriteSongs, &numberOfFoundSongs, researchType, "");
+				if(foundSongs == NULL)
+					printf("Nessun riscontro con i criteri inseriti.\n");
+			} while(foundSongs == NULL);
 
-		if(numberOfFoundSongs > 1)
-		{
-			printSongsArray(foundSongs, numberOfFoundSongs);
-			printf("Inserire il codice del brano da aggiungere tra i vari \"%s\"\n", foundSongs[0]->name);
-			foundSongs = searchSong(favSongs, (*userToModify)->numberOfFavouriteSongs, &numberOfFoundSongs, 1, "");
-		}
+			if(numberOfFoundSongs > 1)
+			{
+				printSongsArray(foundSongs, numberOfFoundSongs);
+				printf("Inserire il codice del brano da aggiungere tra i vari \"%s\"\n", foundSongs[0]->name);
+				foundSongs = searchSong(favSongs, (*userToModify)->numberOfFavouriteSongs, &numberOfFoundSongs, 1, "");
+			}
 
-		int favouritePosition;
+			int favouritePosition;
 
-		for(int i=0;i<(*userToModify)->numberOfFavouriteSongs;i++)
-				if(strcmp((*userToModify)->favouriteSongs[i]->code, (*foundSongs)->code) == 0)
-				{
-					favouritePosition = i;
-					break;
-				}
+			for(int i=0;i<(*userToModify)->numberOfFavouriteSongs;i++)
+					if(strcmp((*userToModify)->favouriteSongs[i]->code, (*foundSongs)->code) == 0)
+					{
+						favouritePosition = i;
+						break;
+					}
 
-		for(int i=favouritePosition;i<(*userToModify)->numberOfFavouriteSongs - 1;i++)
-			(*userToModify)->favouriteSongs[i] = (*userToModify)->favouriteSongs[i + 1];
+			for(int i=favouritePosition;i<(*userToModify)->numberOfFavouriteSongs - 1;i++)
+				(*userToModify)->favouriteSongs[i] = (*userToModify)->favouriteSongs[i + 1];
 
-		free((*userToModify)->favouriteSongs[(*userToModify)->numberOfFavouriteSongs - 1]);
-		(*userToModify)->numberOfFavouriteSongs--;
+			free((*userToModify)->favouriteSongs[(*userToModify)->numberOfFavouriteSongs - 1]);
+			(*userToModify)->numberOfFavouriteSongs--;
 
-		printf("\nBrano rimosso dai preferiti:\n");
-		printSongToScreen(*foundSongs);
+			printf("\nBrano rimosso dai preferiti:\n");
+			printSongToScreen(*foundSongs);
 
-		free(foundSongs);
-		repeat = getChoice("Si vuole rimuovere un altro preferito?");
-	} while(repeat == 'Y');
+			free(foundSongs);
+			repeat = getChoice("Si vuole rimuovere un altro preferito?");
+		} while(repeat == 'Y');
+	}
+	else
+		printf("Nessun preferito trovato.\nImpossibile rimuovere un preferito.\n");
 }
 
 
@@ -256,7 +261,7 @@ int addUser(User users[], int *currentSize, User **currentLoggedUser)
 		users[*currentSize].birthDate = getDate();
 
 		//Inserting the user's email
-		getEmail(users[*currentSize].email);
+		getMail(users[*currentSize].email);
 
 		users[*currentSize].numberOfFavouriteSongs = 0;
 
@@ -842,7 +847,7 @@ void addPlaylist(User *user, Song songs[], int currentSongSize)
 	}
 	else
 	{
-		printf("Si deve essere loggati per rimuovere una playlist!\n");
+		printf("Si deve essere loggati per aggiungere una playlist!\n");
 		system("pause");
 		fflush(stdin);
 	}
@@ -1142,7 +1147,7 @@ void removeSongFromPlaylist(User *user, Song songs[], int currentSongSize)
 }
 
 ///This function asks for the login informations to the user, and eventually it logs in with the chosen account.
-User* login(User users[], int usersNumber)
+User* logIn(User users[], int usersNumber)
 {
 	User *loggedUser = NULL;
 	char email[2 * MAX_STRING_LENGTH + 2];
@@ -1153,7 +1158,7 @@ User* login(User users[], int usersNumber)
 		if(!isFirstTimeInput)
 			printf("Spiacenti: email e nickname non combaciano.\n");
 		loggedUser = users + getUserIdByNickname(users, usersNumber);
-		getEmail(email);
+		getMail(email);
 		isFirstTimeInput = 0;
 	} while(strcmp(email, loggedUser->email));
 
@@ -1161,7 +1166,7 @@ User* login(User users[], int usersNumber)
 }
 
 ///This function gives the user the ability to log out immediately.
-void logout(User **currentLoggedUser)
+void logOut(User **currentLoggedUser)
 {
 	if(*currentLoggedUser)
 	{
@@ -1206,7 +1211,7 @@ void modifyUser(User users[], int currentSize, User **currentLoggedUser)
 		userToModify->birthDate = getDate();
 
 		//Inserting the user's email
-		getEmail(userToModify->email);
+		getMail(userToModify->email);
 
 		modifyUsersFile(users, currentSize);
 	}
