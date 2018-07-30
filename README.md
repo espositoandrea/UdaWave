@@ -25,4 +25,4 @@ We have chosen to create a software for *on demand music*. It has some of the ba
 ### Important Links
 Here are some important links regarding this project.
 - <a href="http://andreaespositouniba.altervista.org/Computer%20Laboratory/downloadable/Documentazione.pdf" download>Project Documentation (**ITA**)</a>
-- <a href="http://andreaespositouniba.altervista.org/Laboratorio%20di%20Informatica/Doxygen/" target="_blank">Code Documentation (**Doxygen**)</a>
+- <a href="http://andreaespositouniba.altervista.org/Computer%20Laboratory/Doxygen/" target="_blank">Code Documentation (**Doxygen**)</a>
