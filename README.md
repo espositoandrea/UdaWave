@@ -1,5 +1,7 @@
 # <img src="/src/resources/icon.png" alt="UdaWave Logo" width="50px"> UdaWave
 
+[![GitHub license](https://img.shields.io/github/license/mineand99/UdaWave.svg?style=for-the-badge)](https://github.com/mineand99/UdaWave/blob/master/LICENSE)
+
 ## Brief description
 <dl>
   <dt>Name</dt>
