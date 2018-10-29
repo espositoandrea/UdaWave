@@ -1,0 +1,683 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a04c289885d869a6335c48716afbbbc05"><param name="Name" value="addFavourite"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a04c289885d869a6335c48716afbbbc05"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a04c289885d869a6335c48716afbbbc05"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a72ab80a5da53d5bc94eafe1d0f330716"><param name="Name" value="addPlaylist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a72ab80a5da53d5bc94eafe1d0f330716"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a72ab80a5da53d5bc94eafe1d0f330716"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_uda_wave_8c.html#a295866c4173156bb08aee2e66eef98d3"><param name="Name" value="addSong"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a8e41ed628363d598f3d21ad6f5b6904e"><param name="Name" value="addSongToPlaylist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a8e41ed628363d598f3d21ad6f5b6904e"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a8e41ed628363d598f3d21ad6f5b6904e"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ac7f5c0f0c9b38332ed8a8cda720cc7bc"><param name="Name" value="addToSongsFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ac7f5c0f0c9b38332ed8a8cda720cc7bc"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#ac7f5c0f0c9b38332ed8a8cda720cc7bc"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#ab30d791a8eb4ab4c47263c3a34d6e718"><param name="Name" value="addToUsersFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#ab30d791a8eb4ab4c47263c3a34d6e718"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#ab30d791a8eb4ab4c47263c3a34d6e718"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a3b721a8dce73f9db55b1bec1b0c71962"><param name="Name" value="addUser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a3b721a8dce73f9db55b1bec1b0c71962"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a3b721a8dce73f9db55b1bec1b0c71962"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#ae2e89b5673fbd204051cbef726e11c26"><param name="Name" value="albumName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_uda_wave_8c.html#ae91a24067772aea9da952f1fd740eed3"><param name="Name" value="APP_NAME"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#aeb7438471a14d9d83c41c1b080b822d4"><param name="Name" value="artist"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#ab7c87186af8bdb92822402b2e93e9b64"><param name="Name" value="birthDate"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda740d9b7cfa15179d19256d186cdc6e60"><param name="Name" value="BLUES"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a5d2694527c1189e01006f302d24c0c15"><param name="Name" value="checkWithRegEx"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a5d2694527c1189e01006f302d24c0c15"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5d2694527c1189e01006f302d24c0c15"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda5d5a8aa8f016711cf286fd27974f0298"><param name="Name" value="CLASSIC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a02e63450df87bbf0d3bf544ae1f2b84b"><param name="Name" value="clean_suite_dafault"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a02e63450df87bbf0d3bf544ae1f2b84b"><param name="Name" value="Testing.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#a02e63450df87bbf0d3bf544ae1f2b84b"><param name="Name" value="Testing.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#ab884ec39c6d9ecc237e46b4f666ad4ba"><param name="Name" value="code"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_date.html"><param name="Name" value="Date"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_date.html#a5b192adcabf2b2871e3f0b76c1ec1601"><param name="Name" value="day"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_date.html#a533843e07c6ac8d19fee9b16f5336ba2"><param name="Name" value="month"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a88c76723599deadab92dbed1fea682ba"><param name="Name" value="Utilities.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_date.html#a3eeced2ed56bc95d56782b9e738db8ea"><param name="Name" value="year"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_date.html#a5b192adcabf2b2871e3f0b76c1ec1601"><param name="Name" value="day"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a7c4922d5c96f62cc0094032b2c5d702e"><param name="Name" value="doesFileExists"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a7c4922d5c96f62cc0094032b2c5d702e"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a7c4922d5c96f62cc0094032b2c5d702e"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#a75cbbd28884537ecbefc4242465a4fd4"><param name="Name" value="duration"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#a9472d247b982b134e31dc7d67184be19"><param name="Name" value="email"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#af8fc276843057381b04ff11428640e63"><param name="Name" value="favouriteSongs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a2633cb393c68bb2ee8080db58fb7ba93adebb817413857eea6331734b76793159"><param name="Name" value="FEMALE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#adedd4ff3ece73fc8f59d015fc4f955c3"><param name="Name" value="genre"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#ab5ba68436be7bdf57f72d5c3fa8d6d45"><param name="Name" value="Genre"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a3d489d2592d5f75d402938760ab7e413"><param name="Name" value="getChoice"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a3d489d2592d5f75d402938760ab7e413"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a3d489d2592d5f75d402938760ab7e413"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a4a54f52996492cdc8a704b68ff5d43dd"><param name="Name" value="getDate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a4a54f52996492cdc8a704b68ff5d43dd"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a4a54f52996492cdc8a704b68ff5d43dd"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#ad7a4ac38b0a4b149d0bdd3df6adf5c08"><param name="Name" value="getGenre"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#ad7a4ac38b0a4b149d0bdd3df6adf5c08"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#ad7a4ac38b0a4b149d0bdd3df6adf5c08"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a17f6059ab152378f9eddb3ff48323b3e"><param name="Name" value="getInt"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a17f6059ab152378f9eddb3ff48323b3e"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a17f6059ab152378f9eddb3ff48323b3e"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a7dba5adcae5b42beb1c1a197fec6181c"><param name="Name" value="getMail"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a7dba5adcae5b42beb1c1a197fec6181c"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a7dba5adcae5b42beb1c1a197fec6181c"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a1f277e0431e1b73cdd4bc5b892665f19"><param name="Name" value="getMusicGenreIndex"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a1f277e0431e1b73cdd4bc5b892665f19"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a1f277e0431e1b73cdd4bc5b892665f19"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a4ab98e7501e1abd8f907c9e3c975ebe7"><param name="Name" value="getMusicGenreName"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a4ab98e7501e1abd8f907c9e3c975ebe7"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a4ab98e7501e1abd8f907c9e3c975ebe7"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#af94c3832427faf145bd957c13a6d82f3"><param name="Name" value="getName"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#af94c3832427faf145bd957c13a6d82f3"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#af94c3832427faf145bd957c13a6d82f3"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a39c4cbdc890c92ba84bcc4321f5e4b00"><param name="Name" value="getNickname"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a39c4cbdc890c92ba84bcc4321f5e4b00"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a39c4cbdc890c92ba84bcc4321f5e4b00"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a54d8d2bfa6fdd2439f774fd9610a5656"><param name="Name" value="getSex"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a54d8d2bfa6fdd2439f774fd9610a5656"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a54d8d2bfa6fdd2439f774fd9610a5656"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#ac0fa8123f7a23f7758a0acdb57e712d7"><param name="Name" value="getUserIdByNickname"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#ac0fa8123f7a23f7758a0acdb57e712d7"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#ac0fa8123f7a23f7758a0acdb57e712d7"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda23761a1d90b406431b1ea8f150629348"><param name="Name" value="HEAVY_METAL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda20c9b85ebd46fc8f61f55700d82df598"><param name="Name" value="HIP_HOP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a3ad868078834b5a5ba7828dd7856a682"><param name="Name" value="init_suite_dafault"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a3ad868078834b5a5ba7828dd7856a682"><param name="Name" value="Testing.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#a3ad868078834b5a5ba7828dd7856a682"><param name="Name" value="Testing.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ab3bbcf087195c2b98b063af7f2c325ae"><param name="Name" value="insertCode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ab3bbcf087195c2b98b063af7f2c325ae"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#ab3bbcf087195c2b98b063af7f2c325ae"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a06552fee57861e39606ccf4605a5939c"><param name="Name" value="insertDuration"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a06552fee57861e39606ccf4605a5939c"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a06552fee57861e39606ccf4605a5939c"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbdad121a9a8211242c823ceb647ffed0456"><param name="Name" value="INVALID_GENRE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a849f13504fd9f7e52cece9e42a900d5d"><param name="Name" value="isCodeValid"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a849f13504fd9f7e52cece9e42a900d5d"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a849f13504fd9f7e52cece9e42a900d5d"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a6fd6907fba69a646ed0aa73241a47f98"><param name="Name" value="isDateValid"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a6fd6907fba69a646ed0aa73241a47f98"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a6fd6907fba69a646ed0aa73241a47f98"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#ae2f7c9a7e17225bac3e3f9a506b8a829"><param name="Name" value="isLeapYear"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#ae2f7c9a7e17225bac3e3f9a506b8a829"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#ae2f7c9a7e17225bac3e3f9a506b8a829"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#adfd4f8d9c6c4a2b1b7eb8c0dad84fbb4"><param name="Name" value="isMailValid"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#adfd4f8d9c6c4a2b1b7eb8c0dad84fbb4"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#adfd4f8d9c6c4a2b1b7eb8c0dad84fbb4"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#aff4219ff8a473f519287c6f780a001dd"><param name="Name" value="isNameValid"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#aff4219ff8a473f519287c6f780a001dd"><param name="Name" value="Utilities.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#aff4219ff8a473f519287c6f780a001dd"><param name="Name" value="Utilities.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_playlist.html#a9aa2158bfc31b4b9315acb4654b963f1"><param name="Name" value="isPrivate"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbdabe6f1fd008b7070f5611e08345f569d4"><param name="Name" value="JAZZ"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#abb737d70fce1049d7d348085515c8268"><param name="Name" value="loadPlaylistsFromFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#abb737d70fce1049d7d348085515c8268"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#abb737d70fce1049d7d348085515c8268"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a7d65cc0fb3f7d45c0fd71662137a21eb"><param name="Name" value="loadSongsFromFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a7d65cc0fb3f7d45c0fd71662137a21eb"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a7d65cc0fb3f7d45c0fd71662137a21eb"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#ada443c04954f0db43e4109a0bfeac05a"><param name="Name" value="loadUsersFromFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#ada443c04954f0db43e4109a0bfeac05a"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#ada443c04954f0db43e4109a0bfeac05a"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a11ebe4dbaa30d1c70bddfa4881b59577"><param name="Name" value="logIn"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a11ebe4dbaa30d1c70bddfa4881b59577"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a11ebe4dbaa30d1c70bddfa4881b59577"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#ada45f2e13965b07a59b860bff2c7d4d7"><param name="Name" value="logOut"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#ada45f2e13965b07a59b860bff2c7d4d7"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#ada45f2e13965b07a59b860bff2c7d4d7"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_uda_wave_8c.html#a840291bc02cba5474a4cb46a9b9566fe"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a2633cb393c68bb2ee8080db58fb7ba93a6e81fe1ef694726dd6f7246cfb42369f"><param name="Name" value="MALE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#ac6b198b82193be1555261decfc2f4078"><param name="Name" value="MAX_CODE_LENGTH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a8553a4703b915902d4e22246198c8972"><param name="Name" value="MAX_PLAYLIST_NUMBER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a1c01f052efa04d3c05ddd794f564d82f"><param name="Name" value="MAX_SONGS_NUMBER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a6789ebc0df71a8ef76bfbb4fb5f74aad"><param name="Name" value="MAX_STRING_LENGTH"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a9356a1bddc4ac3851f415fdcca0f0823"><param name="Name" value="MAX_USERS_NUMBER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_uda_wave_8c.html#a4d00c08db99146d9cdf6684908b540ed"><param name="Name" value="menu"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song_1_1_duration.html#a885a48a0eb978cb6004ea6fa5df7ce26"><param name="Name" value="min"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#aff10f872b0042f884a9e1bcbb466582e"><param name="Name" value="modifyFavourites"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#aff10f872b0042f884a9e1bcbb466582e"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#aff10f872b0042f884a9e1bcbb466582e"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a80cace9e0e123cf2c60a13812e5bf9d0"><param name="Name" value="modifyPlaylist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a80cace9e0e123cf2c60a13812e5bf9d0"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a80cace9e0e123cf2c60a13812e5bf9d0"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_uda_wave_8c.html#a57ac8f9a33041f80a236c52e23a8b304"><param name="Name" value="modifySong"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a11d93655e1197f294b8938400ec69f90"><param name="Name" value="modifySongsFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a11d93655e1197f294b8938400ec69f90"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a11d93655e1197f294b8938400ec69f90"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a6cbfba9843bd0bab956fac40b053aa0b"><param name="Name" value="modifyUser"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a6cbfba9843bd0bab956fac40b053aa0b"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a6cbfba9843bd0bab956fac40b053aa0b"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a678b8b95a3435d9be95ea3dfce77e49b"><param name="Name" value="modifyUsersFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a678b8b95a3435d9be95ea3dfce77e49b"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a678b8b95a3435d9be95ea3dfce77e49b"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_date.html#a533843e07c6ac8d19fee9b16f5336ba2"><param name="Name" value="month"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_playlist.html#abf45f72a84e0204cfe9f18005dff9eb7"><param name="Name" value="name"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_playlist.html#abf45f72a84e0204cfe9f18005dff9eb7"><param name="Name" value="Playlist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#ac4988a2023124ae85101a232bf413bb2"><param name="Name" value="Song"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#a643f85779a4693855c171c396f49e515"><param name="Name" value="User"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#a344cb1559ebd8f4d90106544a3f6b541"><param name="Name" value="nickname"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#ad4d1e9d4a0c757062dcaf92dbf5179f3"><param name="Name" value="numberOfFavouriteSongs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#ac8b21afe01363393b6ded7e171ad6af4"><param name="Name" value="numberOfPlaylists"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_playlist.html#ac8a9ff598f84ab80a14e5b497e903618"><param name="Name" value="numberOfSongs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a2633cb393c68bb2ee8080db58fb7ba93adbf1dee1b8cd7ea3c82661943c7b74f4"><param name="Name" value="OTHER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_playlist.html#af2ce40c05803b348292172c589f102dc"><param name="Name" value="ownerNickname"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a73d5bc2e5f71579b423acbe16fb6b9a5"><param name="Name" value="partitionByDuration"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a73d5bc2e5f71579b423acbe16fb6b9a5"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a73d5bc2e5f71579b423acbe16fb6b9a5"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a1a92dd41da58501c229e610fa5783f43"><param name="Name" value="partitionByTrackNumber"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a1a92dd41da58501c229e610fa5783f43"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a1a92dd41da58501c229e610fa5783f43"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_playlist.html"><param name="Name" value="Playlist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_playlist.html#a9aa2158bfc31b4b9315acb4654b963f1"><param name="Name" value="isPrivate"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_playlist.html#abf45f72a84e0204cfe9f18005dff9eb7"><param name="Name" value="name"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_playlist.html#ac8a9ff598f84ab80a14e5b497e903618"><param name="Name" value="numberOfSongs"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_playlist.html#af2ce40c05803b348292172c589f102dc"><param name="Name" value="ownerNickname"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_playlist.html#a90cc1bdb084411dc5f830b3361d34934"><param name="Name" value="songs"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a7c2f6e84d8f0df26ab62633d85062c1e"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#a63fc09ae95c006ab72b89bfe02385e9f"><param name="Name" value="playlists"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda061dcf4785583d8653942f2d252174fa"><param name="Name" value="POP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#aba8ef9332261d5e6bc1c5e525d95905b"><param name="Name" value="printAlbumsOfArtist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#aba8ef9332261d5e6bc1c5e525d95905b"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#aba8ef9332261d5e6bc1c5e525d95905b"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ada8f3578b629d0f1335c5781e10943aa"><param name="Name" value="printCatalog"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ada8f3578b629d0f1335c5781e10943aa"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#ada8f3578b629d0f1335c5781e10943aa"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a0548d6900c63ae78c3c88fb343c8ef15"><param name="Name" value="printPlaylistsToScreen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a0548d6900c63ae78c3c88fb343c8ef15"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a0548d6900c63ae78c3c88fb343c8ef15"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a30071db7a3d3e03c513d0e411688cc37"><param name="Name" value="printPublicPlaylistsToScreen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a30071db7a3d3e03c513d0e411688cc37"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#ae96d03180bc5fa3bd98f47f32979b9af"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#aaafd03c2711ad58072f6c95431ab5e2c"><param name="Name" value="printSongsArray"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#aaafd03c2711ad58072f6c95431ab5e2c"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#aaafd03c2711ad58072f6c95431ab5e2c"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a8f23cb33e78b0c3d0905a6388f11f7d5"><param name="Name" value="printSongsOfGenre"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a8f23cb33e78b0c3d0905a6388f11f7d5"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a8f23cb33e78b0c3d0905a6388f11f7d5"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#af7e9d1cdd0092608eda786051c7aeeaf"><param name="Name" value="printSongToScreen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#af7e9d1cdd0092608eda786051c7aeeaf"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#af7e9d1cdd0092608eda786051c7aeeaf"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a83d5903b033b0954287893c971ea8366"><param name="Name" value="printUsersArray"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a83d5903b033b0954287893c971ea8366"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a83d5903b033b0954287893c971ea8366"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a28c3a81fadcce2f0842dd943a651cbb4"><param name="Name" value="printUsersList"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#aad0132bac6ef3342946b5d13c61618aa"><param name="Name" value="printUserToScreen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#aad0132bac6ef3342946b5d13c61618aa"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#aad0132bac6ef3342946b5d13c61618aa"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda820a42cb847b105223022c0ed3d979d5"><param name="Name" value="PUNK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a0679b007293d17f8509752ecebceefe2"><param name="Name" value="quicksort"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a0679b007293d17f8509752ecebceefe2"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a0679b007293d17f8509752ecebceefe2"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a4bfa8ddf4648a18191c6404819fbec12"><param name="Name" value="removeFavourite"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a4bfa8ddf4648a18191c6404819fbec12"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a4bfa8ddf4648a18191c6404819fbec12"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#aaedf7f993e2b26463ae7c3fb12770bf6"><param name="Name" value="removePlaylist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#aaedf7f993e2b26463ae7c3fb12770bf6"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#aaedf7f993e2b26463ae7c3fb12770bf6"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a28858f88802e6e703d98dff450d82f22"><param name="Name" value="removeSongFromPlaylist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a28858f88802e6e703d98dff450d82f22"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a28858f88802e6e703d98dff450d82f22"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbdab39e373af8c527684a4f0ded36bd961c"><param name="Name" value="ROCK"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a2007f00ae739df5a13813a40dfce60bb"><param name="Name" value="savePlaylistsToFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a2007f00ae739df5a13813a40dfce60bb"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a2007f00ae739df5a13813a40dfce60bb"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a1f9f347ee6404530c9e326cee4999fa7"><param name="Name" value="searchForSongs"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a1f9f347ee6404530c9e326cee4999fa7"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a1f9f347ee6404530c9e326cee4999fa7"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a6736a474c0f04045f2a9fae80da9fd92"><param name="Name" value="searchInPlaylists"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a6736a474c0f04045f2a9fae80da9fd92"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a6736a474c0f04045f2a9fae80da9fd92"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a6fe52afb50a44f71b0f7699687cff267"><param name="Name" value="searchInUsers"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a6fe52afb50a44f71b0f7699687cff267"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a6fe52afb50a44f71b0f7699687cff267"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a883f19d3cfb7a56d60afd41082fed9e8"><param name="Name" value="searchSong"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a883f19d3cfb7a56d60afd41082fed9e8"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a883f19d3cfb7a56d60afd41082fed9e8"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a69ad9d6f8dbf9510f75d150a3480a11d"><param name="Name" value="searchSongByAlbum"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a69ad9d6f8dbf9510f75d150a3480a11d"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a69ad9d6f8dbf9510f75d150a3480a11d"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a2eee2489020dba4b74555828e6ed230c"><param name="Name" value="searchSongByArtist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a2eee2489020dba4b74555828e6ed230c"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a2eee2489020dba4b74555828e6ed230c"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ae5ff7ce0138c6a68a1a8a5e2cf5fae55"><param name="Name" value="searchSongByCode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ae5ff7ce0138c6a68a1a8a5e2cf5fae55"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#ae5ff7ce0138c6a68a1a8a5e2cf5fae55"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#aedd7888b5c36e5cbd7b760aabfc4525a"><param name="Name" value="searchSongByGenre"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#aedd7888b5c36e5cbd7b760aabfc4525a"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#aedd7888b5c36e5cbd7b760aabfc4525a"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a3b95b477662655fc8cf7622134fb85b6"><param name="Name" value="searchSongByTitle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a3b95b477662655fc8cf7622134fb85b6"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a3b95b477662655fc8cf7622134fb85b6"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song_1_1_duration.html#a4a2f799bca8ea59b3cf04a98f98f0425"><param name="Name" value="sec"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_uda_wave_8c.html#a74ba5761b1237c41a97f72a9887074bd"><param name="Name" value="setConsoleTitle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#a02fcc5c7fab78cf4ea1a4298d451ce0d"><param name="Name" value="sex"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#ac4095d3ad213065db499a5fc8eafe748"><param name="Name" value="Sex"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ae18b983cea66ba72b0b4a73a3a28ab14"><param name="Name" value="showSongsOfAlbum"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ae18b983cea66ba72b0b4a73a3a28ab14"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#ae18b983cea66ba72b0b4a73a3a28ab14"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html"><param name="Name" value="Song"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html"><param name="Name" value="Song.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ac7f5c0f0c9b38332ed8a8cda720cc7bc"><param name="Name" value="addToSongsFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ab3bbcf087195c2b98b063af7f2c325ae"><param name="Name" value="insertCode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a06552fee57861e39606ccf4605a5939c"><param name="Name" value="insertDuration"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a849f13504fd9f7e52cece9e42a900d5d"><param name="Name" value="isCodeValid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a7d65cc0fb3f7d45c0fd71662137a21eb"><param name="Name" value="loadSongsFromFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a11d93655e1197f294b8938400ec69f90"><param name="Name" value="modifySongsFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a73d5bc2e5f71579b423acbe16fb6b9a5"><param name="Name" value="partitionByDuration"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a1a92dd41da58501c229e610fa5783f43"><param name="Name" value="partitionByTrackNumber"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#aba8ef9332261d5e6bc1c5e525d95905b"><param name="Name" value="printAlbumsOfArtist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ada8f3578b629d0f1335c5781e10943aa"><param name="Name" value="printCatalog"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#aaafd03c2711ad58072f6c95431ab5e2c"><param name="Name" value="printSongsArray"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#af7e9d1cdd0092608eda786051c7aeeaf"><param name="Name" value="printSongToScreen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a0679b007293d17f8509752ecebceefe2"><param name="Name" value="quicksort"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a1f9f347ee6404530c9e326cee4999fa7"><param name="Name" value="searchForSongs"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a883f19d3cfb7a56d60afd41082fed9e8"><param name="Name" value="searchSong"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a69ad9d6f8dbf9510f75d150a3480a11d"><param name="Name" value="searchSongByAlbum"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a2eee2489020dba4b74555828e6ed230c"><param name="Name" value="searchSongByArtist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ae5ff7ce0138c6a68a1a8a5e2cf5fae55"><param name="Name" value="searchSongByCode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#aedd7888b5c36e5cbd7b760aabfc4525a"><param name="Name" value="searchSongByGenre"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#a3b95b477662655fc8cf7622134fb85b6"><param name="Name" value="searchSongByTitle"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ae18b983cea66ba72b0b4a73a3a28ab14"><param name="Name" value="showSongsOfAlbum"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ac57c8c20188ac49cd4751138b5916d78"><param name="Name" value="swap"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html"><param name="Name" value="Song.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#ac7f5c0f0c9b38332ed8a8cda720cc7bc"><param name="Name" value="addToSongsFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#ab3bbcf087195c2b98b063af7f2c325ae"><param name="Name" value="insertCode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a06552fee57861e39606ccf4605a5939c"><param name="Name" value="insertDuration"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a849f13504fd9f7e52cece9e42a900d5d"><param name="Name" value="isCodeValid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a7d65cc0fb3f7d45c0fd71662137a21eb"><param name="Name" value="loadSongsFromFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a1c01f052efa04d3c05ddd794f564d82f"><param name="Name" value="MAX_SONGS_NUMBER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a11d93655e1197f294b8938400ec69f90"><param name="Name" value="modifySongsFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a73d5bc2e5f71579b423acbe16fb6b9a5"><param name="Name" value="partitionByDuration"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a1a92dd41da58501c229e610fa5783f43"><param name="Name" value="partitionByTrackNumber"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#aba8ef9332261d5e6bc1c5e525d95905b"><param name="Name" value="printAlbumsOfArtist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#ada8f3578b629d0f1335c5781e10943aa"><param name="Name" value="printCatalog"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#aaafd03c2711ad58072f6c95431ab5e2c"><param name="Name" value="printSongsArray"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#af7e9d1cdd0092608eda786051c7aeeaf"><param name="Name" value="printSongToScreen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a0679b007293d17f8509752ecebceefe2"><param name="Name" value="quicksort"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a1f9f347ee6404530c9e326cee4999fa7"><param name="Name" value="searchForSongs"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a883f19d3cfb7a56d60afd41082fed9e8"><param name="Name" value="searchSong"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a69ad9d6f8dbf9510f75d150a3480a11d"><param name="Name" value="searchSongByAlbum"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a2eee2489020dba4b74555828e6ed230c"><param name="Name" value="searchSongByArtist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#ae5ff7ce0138c6a68a1a8a5e2cf5fae55"><param name="Name" value="searchSongByCode"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#aedd7888b5c36e5cbd7b760aabfc4525a"><param name="Name" value="searchSongByGenre"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a3b95b477662655fc8cf7622134fb85b6"><param name="Name" value="searchSongByTitle"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#ae18b983cea66ba72b0b4a73a3a28ab14"><param name="Name" value="showSongsOfAlbum"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a422c793dbf0633ca61416c3afbd6698d"><param name="Name" value="Song"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#ac57c8c20188ac49cd4751138b5916d78"><param name="Name" value="swap"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song_1_1_duration.html"><param name="Name" value="Song::Duration"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song_1_1_duration.html#a885a48a0eb978cb6004ea6fa5df7ce26"><param name="Name" value="min"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song_1_1_duration.html#a4a2f799bca8ea59b3cf04a98f98f0425"><param name="Name" value="sec"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html"><param name="Name" value="Song"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#ae2e89b5673fbd204051cbef726e11c26"><param name="Name" value="albumName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#aeb7438471a14d9d83c41c1b080b822d4"><param name="Name" value="artist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#ab884ec39c6d9ecc237e46b4f666ad4ba"><param name="Name" value="code"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#a75cbbd28884537ecbefc4242465a4fd4"><param name="Name" value="duration"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#adedd4ff3ece73fc8f59d015fc4f955c3"><param name="Name" value="genre"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#ac4988a2023124ae85101a232bf413bb2"><param name="Name" value="name"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#a422c793dbf0633ca61416c3afbd6698d"><param name="Name" value="Song.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#a296e1fe8cc7f950b9a1acc9c12865e60"><param name="Name" value="trackNumber"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_playlist.html#a90cc1bdb084411dc5f830b3361d34934"><param name="Name" value="songs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a861556f06af4cff43e50afca5cf45826"><param name="Name" value="string"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#a1f2a9a8d8add432f2922572d930138aa"><param name="Name" value="surname"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ac57c8c20188ac49cd4751138b5916d78"><param name="Name" value="swap"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8c.html#ac57c8c20188ac49cd4751138b5916d78"><param name="Name" value="Song.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_song_8h.html#ac57c8c20188ac49cd4751138b5916d78"><param name="Name" value="Song.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#ac18a011d7aeeb0970f49e7abaee8ae99"><param name="Name" value="test_getMusicGenreIndex"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#ac18a011d7aeeb0970f49e7abaee8ae99"><param name="Name" value="Testing.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#ac18a011d7aeeb0970f49e7abaee8ae99"><param name="Name" value="Testing.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#acd0e33d43a8b6a6fad99578550edb7d7"><param name="Name" value="test_getMusicGenreName"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#acd0e33d43a8b6a6fad99578550edb7d7"><param name="Name" value="Testing.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#acd0e33d43a8b6a6fad99578550edb7d7"><param name="Name" value="Testing.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#ac4782013c69c8cc2a69f19685c804394"><param name="Name" value="test_isDateValid"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#ac4782013c69c8cc2a69f19685c804394"><param name="Name" value="Testing.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#ac4782013c69c8cc2a69f19685c804394"><param name="Name" value="Testing.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a45c187c3c3c5f783f3f999f360ac4515"><param name="Name" value="test_isLeapYear"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a45c187c3c3c5f783f3f999f360ac4515"><param name="Name" value="Testing.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#a45c187c3c3c5f783f3f999f360ac4515"><param name="Name" value="Testing.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a8fc7b830d97ac20e1d0083b5aff46757"><param name="Name" value="test_isMailValid"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a8fc7b830d97ac20e1d0083b5aff46757"><param name="Name" value="Testing.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#a8fc7b830d97ac20e1d0083b5aff46757"><param name="Name" value="Testing.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#ab027d6fc3a967bfe59fef58f00c90d93"><param name="Name" value="test_isNameValid"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#ab027d6fc3a967bfe59fef58f00c90d93"><param name="Name" value="Testing.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#ab027d6fc3a967bfe59fef58f00c90d93"><param name="Name" value="Testing.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html"><param name="Name" value="Testing.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a02e63450df87bbf0d3bf544ae1f2b84b"><param name="Name" value="clean_suite_dafault"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a3ad868078834b5a5ba7828dd7856a682"><param name="Name" value="init_suite_dafault"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#ac18a011d7aeeb0970f49e7abaee8ae99"><param name="Name" value="test_getMusicGenreIndex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#acd0e33d43a8b6a6fad99578550edb7d7"><param name="Name" value="test_getMusicGenreName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#ac4782013c69c8cc2a69f19685c804394"><param name="Name" value="test_isDateValid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a45c187c3c3c5f783f3f999f360ac4515"><param name="Name" value="test_isLeapYear"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a8fc7b830d97ac20e1d0083b5aff46757"><param name="Name" value="test_isMailValid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#ab027d6fc3a967bfe59fef58f00c90d93"><param name="Name" value="test_isNameValid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a3e8a4e0e14562f844e9b3dd20e129d90"><param name="Name" value="testingMain"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html"><param name="Name" value="Testing.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#a02e63450df87bbf0d3bf544ae1f2b84b"><param name="Name" value="clean_suite_dafault"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#a3ad868078834b5a5ba7828dd7856a682"><param name="Name" value="init_suite_dafault"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#ac18a011d7aeeb0970f49e7abaee8ae99"><param name="Name" value="test_getMusicGenreIndex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#acd0e33d43a8b6a6fad99578550edb7d7"><param name="Name" value="test_getMusicGenreName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#ac4782013c69c8cc2a69f19685c804394"><param name="Name" value="test_isDateValid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#a45c187c3c3c5f783f3f999f360ac4515"><param name="Name" value="test_isLeapYear"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#a8fc7b830d97ac20e1d0083b5aff46757"><param name="Name" value="test_isMailValid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#ab027d6fc3a967bfe59fef58f00c90d93"><param name="Name" value="test_isNameValid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#a3e8a4e0e14562f844e9b3dd20e129d90"><param name="Name" value="testingMain"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a3e8a4e0e14562f844e9b3dd20e129d90"><param name="Name" value="testingMain"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8c.html#a3e8a4e0e14562f844e9b3dd20e129d90"><param name="Name" value="Testing.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_testing_8h.html#a3e8a4e0e14562f844e9b3dd20e129d90"><param name="Name" value="Testing.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_song.html#a296e1fe8cc7f950b9a1acc9c12865e60"><param name="Name" value="trackNumber"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_uda_wave_8c.html"><param name="Name" value="UdaWave.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_uda_wave_8c.html#a295866c4173156bb08aee2e66eef98d3"><param name="Name" value="addSong"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_uda_wave_8c.html#ae91a24067772aea9da952f1fd740eed3"><param name="Name" value="APP_NAME"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_uda_wave_8c.html#a840291bc02cba5474a4cb46a9b9566fe"><param name="Name" value="main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_uda_wave_8c.html#a4d00c08db99146d9cdf6684908b540ed"><param name="Name" value="menu"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_uda_wave_8c.html#a57ac8f9a33041f80a236c52e23a8b304"><param name="Name" value="modifySong"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_uda_wave_8c.html#a74ba5761b1237c41a97f72a9887074bd"><param name="Name" value="setConsoleTitle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html"><param name="Name" value="User"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html"><param name="Name" value="User.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a04c289885d869a6335c48716afbbbc05"><param name="Name" value="addFavourite"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a72ab80a5da53d5bc94eafe1d0f330716"><param name="Name" value="addPlaylist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a8e41ed628363d598f3d21ad6f5b6904e"><param name="Name" value="addSongToPlaylist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#ab30d791a8eb4ab4c47263c3a34d6e718"><param name="Name" value="addToUsersFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a3b721a8dce73f9db55b1bec1b0c71962"><param name="Name" value="addUser"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a39c4cbdc890c92ba84bcc4321f5e4b00"><param name="Name" value="getNickname"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#ac0fa8123f7a23f7758a0acdb57e712d7"><param name="Name" value="getUserIdByNickname"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#abb737d70fce1049d7d348085515c8268"><param name="Name" value="loadPlaylistsFromFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#ada443c04954f0db43e4109a0bfeac05a"><param name="Name" value="loadUsersFromFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a11ebe4dbaa30d1c70bddfa4881b59577"><param name="Name" value="logIn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#ada45f2e13965b07a59b860bff2c7d4d7"><param name="Name" value="logOut"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#aff10f872b0042f884a9e1bcbb466582e"><param name="Name" value="modifyFavourites"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a80cace9e0e123cf2c60a13812e5bf9d0"><param name="Name" value="modifyPlaylist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a6cbfba9843bd0bab956fac40b053aa0b"><param name="Name" value="modifyUser"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a678b8b95a3435d9be95ea3dfce77e49b"><param name="Name" value="modifyUsersFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a0548d6900c63ae78c3c88fb343c8ef15"><param name="Name" value="printPlaylistsToScreen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a30071db7a3d3e03c513d0e411688cc37"><param name="Name" value="printPublicPlaylistsToScreen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a8f23cb33e78b0c3d0905a6388f11f7d5"><param name="Name" value="printSongsOfGenre"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a83d5903b033b0954287893c971ea8366"><param name="Name" value="printUsersArray"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a28c3a81fadcce2f0842dd943a651cbb4"><param name="Name" value="printUsersList"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#aad0132bac6ef3342946b5d13c61618aa"><param name="Name" value="printUserToScreen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a4bfa8ddf4648a18191c6404819fbec12"><param name="Name" value="removeFavourite"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#aaedf7f993e2b26463ae7c3fb12770bf6"><param name="Name" value="removePlaylist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a28858f88802e6e703d98dff450d82f22"><param name="Name" value="removeSongFromPlaylist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a2007f00ae739df5a13813a40dfce60bb"><param name="Name" value="savePlaylistsToFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a6736a474c0f04045f2a9fae80da9fd92"><param name="Name" value="searchInPlaylists"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#a6fe52afb50a44f71b0f7699687cff267"><param name="Name" value="searchInUsers"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#acb551b2ec4ca6532b06509e6dabaadda"><param name="Name" value="writePlaylistToFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html"><param name="Name" value="User.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a04c289885d869a6335c48716afbbbc05"><param name="Name" value="addFavourite"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a72ab80a5da53d5bc94eafe1d0f330716"><param name="Name" value="addPlaylist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a8e41ed628363d598f3d21ad6f5b6904e"><param name="Name" value="addSongToPlaylist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#ab30d791a8eb4ab4c47263c3a34d6e718"><param name="Name" value="addToUsersFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a3b721a8dce73f9db55b1bec1b0c71962"><param name="Name" value="addUser"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a39c4cbdc890c92ba84bcc4321f5e4b00"><param name="Name" value="getNickname"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#ac0fa8123f7a23f7758a0acdb57e712d7"><param name="Name" value="getUserIdByNickname"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#abb737d70fce1049d7d348085515c8268"><param name="Name" value="loadPlaylistsFromFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#ada443c04954f0db43e4109a0bfeac05a"><param name="Name" value="loadUsersFromFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a11ebe4dbaa30d1c70bddfa4881b59577"><param name="Name" value="logIn"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#ada45f2e13965b07a59b860bff2c7d4d7"><param name="Name" value="logOut"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a8553a4703b915902d4e22246198c8972"><param name="Name" value="MAX_PLAYLIST_NUMBER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a9356a1bddc4ac3851f415fdcca0f0823"><param name="Name" value="MAX_USERS_NUMBER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#aff10f872b0042f884a9e1bcbb466582e"><param name="Name" value="modifyFavourites"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a80cace9e0e123cf2c60a13812e5bf9d0"><param name="Name" value="modifyPlaylist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a6cbfba9843bd0bab956fac40b053aa0b"><param name="Name" value="modifyUser"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a678b8b95a3435d9be95ea3dfce77e49b"><param name="Name" value="modifyUsersFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a7c2f6e84d8f0df26ab62633d85062c1e"><param name="Name" value="Playlist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a0548d6900c63ae78c3c88fb343c8ef15"><param name="Name" value="printPlaylistsToScreen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#ae96d03180bc5fa3bd98f47f32979b9af"><param name="Name" value="printPublicPlaylistsToScreen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a8f23cb33e78b0c3d0905a6388f11f7d5"><param name="Name" value="printSongsOfGenre"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a83d5903b033b0954287893c971ea8366"><param name="Name" value="printUsersArray"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#aad0132bac6ef3342946b5d13c61618aa"><param name="Name" value="printUserToScreen"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a4bfa8ddf4648a18191c6404819fbec12"><param name="Name" value="removeFavourite"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#aaedf7f993e2b26463ae7c3fb12770bf6"><param name="Name" value="removePlaylist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a28858f88802e6e703d98dff450d82f22"><param name="Name" value="removeSongFromPlaylist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a2007f00ae739df5a13813a40dfce60bb"><param name="Name" value="savePlaylistsToFile"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a6736a474c0f04045f2a9fae80da9fd92"><param name="Name" value="searchInPlaylists"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#a6fe52afb50a44f71b0f7699687cff267"><param name="Name" value="searchInUsers"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#aa97b599f3a380ed43ac18edfc944482e"><param name="Name" value="User"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#acb551b2ec4ca6532b06509e6dabaadda"><param name="Name" value="writePlaylistToFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html"><param name="Name" value="User"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#ab7c87186af8bdb92822402b2e93e9b64"><param name="Name" value="birthDate"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#a9472d247b982b134e31dc7d67184be19"><param name="Name" value="email"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#af8fc276843057381b04ff11428640e63"><param name="Name" value="favouriteSongs"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#a643f85779a4693855c171c396f49e515"><param name="Name" value="name"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#a344cb1559ebd8f4d90106544a3f6b541"><param name="Name" value="nickname"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#ad4d1e9d4a0c757062dcaf92dbf5179f3"><param name="Name" value="numberOfFavouriteSongs"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#ac8b21afe01363393b6ded7e171ad6af4"><param name="Name" value="numberOfPlaylists"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#a63fc09ae95c006ab72b89bfe02385e9f"><param name="Name" value="playlists"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#a02fcc5c7fab78cf4ea1a4298d451ce0d"><param name="Name" value="sex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_user.html#a1f2a9a8d8add432f2922572d930138aa"><param name="Name" value="surname"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#aa97b599f3a380ed43ac18edfc944482e"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html"><param name="Name" value="Utilities.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a5d2694527c1189e01006f302d24c0c15"><param name="Name" value="checkWithRegEx"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a7c4922d5c96f62cc0094032b2c5d702e"><param name="Name" value="doesFileExists"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a3d489d2592d5f75d402938760ab7e413"><param name="Name" value="getChoice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a4a54f52996492cdc8a704b68ff5d43dd"><param name="Name" value="getDate"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#ad7a4ac38b0a4b149d0bdd3df6adf5c08"><param name="Name" value="getGenre"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a17f6059ab152378f9eddb3ff48323b3e"><param name="Name" value="getInt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a7dba5adcae5b42beb1c1a197fec6181c"><param name="Name" value="getMail"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a1f277e0431e1b73cdd4bc5b892665f19"><param name="Name" value="getMusicGenreIndex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a4ab98e7501e1abd8f907c9e3c975ebe7"><param name="Name" value="getMusicGenreName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#af94c3832427faf145bd957c13a6d82f3"><param name="Name" value="getName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a54d8d2bfa6fdd2439f774fd9610a5656"><param name="Name" value="getSex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#a6fd6907fba69a646ed0aa73241a47f98"><param name="Name" value="isDateValid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#ae2f7c9a7e17225bac3e3f9a506b8a829"><param name="Name" value="isLeapYear"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#adfd4f8d9c6c4a2b1b7eb8c0dad84fbb4"><param name="Name" value="isMailValid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8c.html#aff4219ff8a473f519287c6f780a001dd"><param name="Name" value="isNameValid"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html"><param name="Name" value="Utilities.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda740d9b7cfa15179d19256d186cdc6e60"><param name="Name" value="BLUES"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5d2694527c1189e01006f302d24c0c15"><param name="Name" value="checkWithRegEx"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda5d5a8aa8f016711cf286fd27974f0298"><param name="Name" value="CLASSIC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a88c76723599deadab92dbed1fea682ba"><param name="Name" value="Date"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a7c4922d5c96f62cc0094032b2c5d702e"><param name="Name" value="doesFileExists"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a2633cb393c68bb2ee8080db58fb7ba93adebb817413857eea6331734b76793159"><param name="Name" value="FEMALE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#ab5ba68436be7bdf57f72d5c3fa8d6d45"><param name="Name" value="Genre"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a3d489d2592d5f75d402938760ab7e413"><param name="Name" value="getChoice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a4a54f52996492cdc8a704b68ff5d43dd"><param name="Name" value="getDate"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#ad7a4ac38b0a4b149d0bdd3df6adf5c08"><param name="Name" value="getGenre"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a17f6059ab152378f9eddb3ff48323b3e"><param name="Name" value="getInt"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a7dba5adcae5b42beb1c1a197fec6181c"><param name="Name" value="getMail"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a1f277e0431e1b73cdd4bc5b892665f19"><param name="Name" value="getMusicGenreIndex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a4ab98e7501e1abd8f907c9e3c975ebe7"><param name="Name" value="getMusicGenreName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#af94c3832427faf145bd957c13a6d82f3"><param name="Name" value="getName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a54d8d2bfa6fdd2439f774fd9610a5656"><param name="Name" value="getSex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda23761a1d90b406431b1ea8f150629348"><param name="Name" value="HEAVY_METAL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda20c9b85ebd46fc8f61f55700d82df598"><param name="Name" value="HIP_HOP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbdad121a9a8211242c823ceb647ffed0456"><param name="Name" value="INVALID_GENRE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a6fd6907fba69a646ed0aa73241a47f98"><param name="Name" value="isDateValid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#ae2f7c9a7e17225bac3e3f9a506b8a829"><param name="Name" value="isLeapYear"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#adfd4f8d9c6c4a2b1b7eb8c0dad84fbb4"><param name="Name" value="isMailValid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#aff4219ff8a473f519287c6f780a001dd"><param name="Name" value="isNameValid"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbdabe6f1fd008b7070f5611e08345f569d4"><param name="Name" value="JAZZ"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a2633cb393c68bb2ee8080db58fb7ba93a6e81fe1ef694726dd6f7246cfb42369f"><param name="Name" value="MALE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#ac6b198b82193be1555261decfc2f4078"><param name="Name" value="MAX_CODE_LENGTH"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a6789ebc0df71a8ef76bfbb4fb5f74aad"><param name="Name" value="MAX_STRING_LENGTH"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a2633cb393c68bb2ee8080db58fb7ba93adbf1dee1b8cd7ea3c82661943c7b74f4"><param name="Name" value="OTHER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda061dcf4785583d8653942f2d252174fa"><param name="Name" value="POP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda820a42cb847b105223022c0ed3d979d5"><param name="Name" value="PUNK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbdab39e373af8c527684a4f0ded36bd961c"><param name="Name" value="ROCK"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#ac4095d3ad213065db499a5fc8eafe748"><param name="Name" value="Sex"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_utilities_8h.html#a861556f06af4cff43e50afca5cf45826"><param name="Name" value="string"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#acb551b2ec4ca6532b06509e6dabaadda"><param name="Name" value="writePlaylistToFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8c.html#acb551b2ec4ca6532b06509e6dabaadda"><param name="Name" value="User.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_user_8h.html#acb551b2ec4ca6532b06509e6dabaadda"><param name="Name" value="User.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_date.html#a3eeced2ed56bc95d56782b9e738db8ea"><param name="Name" value="year"></OBJECT>
+</UL>
+</BODY>
+</HTML>

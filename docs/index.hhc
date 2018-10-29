@@ -1,0 +1,354 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Date"><param name="Local" value="struct_date.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="day"><param name="Local" value="struct_date.html#a5b192adcabf2b2871e3f0b76c1ec1601"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="month"><param name="Local" value="struct_date.html#a533843e07c6ac8d19fee9b16f5336ba2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="year"><param name="Local" value="struct_date.html#a3eeced2ed56bc95d56782b9e738db8ea"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Playlist"><param name="Local" value="struct_playlist.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isPrivate"><param name="Local" value="struct_playlist.html#a9aa2158bfc31b4b9315acb4654b963f1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="struct_playlist.html#abf45f72a84e0204cfe9f18005dff9eb7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="numberOfSongs"><param name="Local" value="struct_playlist.html#ac8a9ff598f84ab80a14e5b497e903618"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ownerNickname"><param name="Local" value="struct_playlist.html#af2ce40c05803b348292172c589f102dc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="songs"><param name="Local" value="struct_playlist.html#a90cc1bdb084411dc5f830b3361d34934"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Song"><param name="Local" value="struct_song.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Duration"><param name="Local" value="struct_song_1_1_duration.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="min"><param name="Local" value="struct_song_1_1_duration.html#a885a48a0eb978cb6004ea6fa5df7ce26"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="sec"><param name="Local" value="struct_song_1_1_duration.html#a4a2f799bca8ea59b3cf04a98f98f0425"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="albumName"><param name="Local" value="struct_song.html#ae2e89b5673fbd204051cbef726e11c26"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="artist"><param name="Local" value="struct_song.html#aeb7438471a14d9d83c41c1b080b822d4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="code"><param name="Local" value="struct_song.html#ab884ec39c6d9ecc237e46b4f666ad4ba"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="duration"><param name="Local" value="struct_song.html#a75cbbd28884537ecbefc4242465a4fd4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="genre"><param name="Local" value="struct_song.html#adedd4ff3ece73fc8f59d015fc4f955c3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="struct_song.html#ac4988a2023124ae85101a232bf413bb2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="trackNumber"><param name="Local" value="struct_song.html#a296e1fe8cc7f950b9a1acc9c12865e60"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="User"><param name="Local" value="struct_user.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="birthDate"><param name="Local" value="struct_user.html#ab7c87186af8bdb92822402b2e93e9b64"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="email"><param name="Local" value="struct_user.html#a9472d247b982b134e31dc7d67184be19"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="favouriteSongs"><param name="Local" value="struct_user.html#af8fc276843057381b04ff11428640e63"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="struct_user.html#a643f85779a4693855c171c396f49e515"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="nickname"><param name="Local" value="struct_user.html#a344cb1559ebd8f4d90106544a3f6b541"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="numberOfFavouriteSongs"><param name="Local" value="struct_user.html#ad4d1e9d4a0c757062dcaf92dbf5179f3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="numberOfPlaylists"><param name="Local" value="struct_user.html#ac8b21afe01363393b6ded7e171ad6af4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="playlists"><param name="Local" value="struct_user.html#a63fc09ae95c006ab72b89bfe02385e9f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sex"><param name="Local" value="struct_user.html#a02fcc5c7fab78cf4ea1a4298d451ce0d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="surname"><param name="Local" value="struct_user.html#a1f2a9a8d8add432f2922572d930138aa"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structure Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Fields"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="src"><param name="Local" value="dir_68267d1309a1af8e8297ef4c3efbcdba.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="modules"><param name="Local" value="dir_ddb4d7e95cc2d6c8e1ade10a20d7247d.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Song"><param name="Local" value="dir_4abd1bce97d82422f9deb395b096d3c0.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Song.c"><param name="Local" value="_song_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addToSongsFile"><param name="Local" value="_song_8c.html#ac7f5c0f0c9b38332ed8a8cda720cc7bc"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="insertCode"><param name="Local" value="_song_8c.html#ab3bbcf087195c2b98b063af7f2c325ae"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="insertDuration"><param name="Local" value="_song_8c.html#a06552fee57861e39606ccf4605a5939c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="isCodeValid"><param name="Local" value="_song_8c.html#a849f13504fd9f7e52cece9e42a900d5d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="loadSongsFromFile"><param name="Local" value="_song_8c.html#a7d65cc0fb3f7d45c0fd71662137a21eb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="modifySongsFile"><param name="Local" value="_song_8c.html#a11d93655e1197f294b8938400ec69f90"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="partitionByDuration"><param name="Local" value="_song_8c.html#a73d5bc2e5f71579b423acbe16fb6b9a5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="partitionByTrackNumber"><param name="Local" value="_song_8c.html#a1a92dd41da58501c229e610fa5783f43"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printAlbumsOfArtist"><param name="Local" value="_song_8c.html#aba8ef9332261d5e6bc1c5e525d95905b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printCatalog"><param name="Local" value="_song_8c.html#ada8f3578b629d0f1335c5781e10943aa"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printSongsArray"><param name="Local" value="_song_8c.html#aaafd03c2711ad58072f6c95431ab5e2c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printSongToScreen"><param name="Local" value="_song_8c.html#af7e9d1cdd0092608eda786051c7aeeaf"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="quicksort"><param name="Local" value="_song_8c.html#a0679b007293d17f8509752ecebceefe2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchForSongs"><param name="Local" value="_song_8c.html#a1f9f347ee6404530c9e326cee4999fa7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchSong"><param name="Local" value="_song_8c.html#a883f19d3cfb7a56d60afd41082fed9e8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchSongByAlbum"><param name="Local" value="_song_8c.html#a69ad9d6f8dbf9510f75d150a3480a11d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchSongByArtist"><param name="Local" value="_song_8c.html#a2eee2489020dba4b74555828e6ed230c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchSongByCode"><param name="Local" value="_song_8c.html#ae5ff7ce0138c6a68a1a8a5e2cf5fae55"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchSongByGenre"><param name="Local" value="_song_8c.html#aedd7888b5c36e5cbd7b760aabfc4525a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchSongByTitle"><param name="Local" value="_song_8c.html#a3b95b477662655fc8cf7622134fb85b6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="showSongsOfAlbum"><param name="Local" value="_song_8c.html#ae18b983cea66ba72b0b4a73a3a28ab14"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="swap"><param name="Local" value="_song_8c.html#ac57c8c20188ac49cd4751138b5916d78"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Song.h"><param name="Local" value="_song_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Song"><param name="Local" value="struct_song.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="Duration"><param name="Local" value="struct_song_1_1_duration.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="min"><param name="Local" value="struct_song_1_1_duration.html#a885a48a0eb978cb6004ea6fa5df7ce26"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="sec"><param name="Local" value="struct_song_1_1_duration.html#a4a2f799bca8ea59b3cf04a98f98f0425"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="albumName"><param name="Local" value="struct_song.html#ae2e89b5673fbd204051cbef726e11c26"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="artist"><param name="Local" value="struct_song.html#aeb7438471a14d9d83c41c1b080b822d4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="code"><param name="Local" value="struct_song.html#ab884ec39c6d9ecc237e46b4f666ad4ba"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="duration"><param name="Local" value="struct_song.html#a75cbbd28884537ecbefc4242465a4fd4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="genre"><param name="Local" value="struct_song.html#adedd4ff3ece73fc8f59d015fc4f955c3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="struct_song.html#ac4988a2023124ae85101a232bf413bb2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="trackNumber"><param name="Local" value="struct_song.html#a296e1fe8cc7f950b9a1acc9c12865e60"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Duration"><param name="Local" value="struct_song_1_1_duration.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="min"><param name="Local" value="struct_song_1_1_duration.html#a885a48a0eb978cb6004ea6fa5df7ce26"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="sec"><param name="Local" value="struct_song_1_1_duration.html#a4a2f799bca8ea59b3cf04a98f98f0425"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="MAX_SONGS_NUMBER"><param name="Local" value="_song_8h.html#a1c01f052efa04d3c05ddd794f564d82f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Song"><param name="Local" value="_song_8h.html#a422c793dbf0633ca61416c3afbd6698d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addToSongsFile"><param name="Local" value="_song_8h.html#ac7f5c0f0c9b38332ed8a8cda720cc7bc"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="insertCode"><param name="Local" value="_song_8h.html#ab3bbcf087195c2b98b063af7f2c325ae"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="insertDuration"><param name="Local" value="_song_8h.html#a06552fee57861e39606ccf4605a5939c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="isCodeValid"><param name="Local" value="_song_8h.html#a849f13504fd9f7e52cece9e42a900d5d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="loadSongsFromFile"><param name="Local" value="_song_8h.html#a7d65cc0fb3f7d45c0fd71662137a21eb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="modifySongsFile"><param name="Local" value="_song_8h.html#a11d93655e1197f294b8938400ec69f90"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="partitionByDuration"><param name="Local" value="_song_8h.html#a73d5bc2e5f71579b423acbe16fb6b9a5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="partitionByTrackNumber"><param name="Local" value="_song_8h.html#a1a92dd41da58501c229e610fa5783f43"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printAlbumsOfArtist"><param name="Local" value="_song_8h.html#aba8ef9332261d5e6bc1c5e525d95905b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printCatalog"><param name="Local" value="_song_8h.html#ada8f3578b629d0f1335c5781e10943aa"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printSongsArray"><param name="Local" value="_song_8h.html#aaafd03c2711ad58072f6c95431ab5e2c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printSongToScreen"><param name="Local" value="_song_8h.html#af7e9d1cdd0092608eda786051c7aeeaf"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="quicksort"><param name="Local" value="_song_8h.html#a0679b007293d17f8509752ecebceefe2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchForSongs"><param name="Local" value="_song_8h.html#a1f9f347ee6404530c9e326cee4999fa7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchSong"><param name="Local" value="_song_8h.html#a883f19d3cfb7a56d60afd41082fed9e8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchSongByAlbum"><param name="Local" value="_song_8h.html#a69ad9d6f8dbf9510f75d150a3480a11d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchSongByArtist"><param name="Local" value="_song_8h.html#a2eee2489020dba4b74555828e6ed230c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchSongByCode"><param name="Local" value="_song_8h.html#ae5ff7ce0138c6a68a1a8a5e2cf5fae55"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchSongByGenre"><param name="Local" value="_song_8h.html#aedd7888b5c36e5cbd7b760aabfc4525a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchSongByTitle"><param name="Local" value="_song_8h.html#a3b95b477662655fc8cf7622134fb85b6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="showSongsOfAlbum"><param name="Local" value="_song_8h.html#ae18b983cea66ba72b0b4a73a3a28ab14"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="swap"><param name="Local" value="_song_8h.html#ac57c8c20188ac49cd4751138b5916d78"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Testing"><param name="Local" value="dir_1c97eb94f5872989e95569a1d480e331.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Testing.c"><param name="Local" value="_testing_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="clean_suite_dafault"><param name="Local" value="_testing_8c.html#a02e63450df87bbf0d3bf544ae1f2b84b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="init_suite_dafault"><param name="Local" value="_testing_8c.html#a3ad868078834b5a5ba7828dd7856a682"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="test_getMusicGenreIndex"><param name="Local" value="_testing_8c.html#ac18a011d7aeeb0970f49e7abaee8ae99"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="test_getMusicGenreName"><param name="Local" value="_testing_8c.html#acd0e33d43a8b6a6fad99578550edb7d7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="test_isDateValid"><param name="Local" value="_testing_8c.html#ac4782013c69c8cc2a69f19685c804394"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="test_isLeapYear"><param name="Local" value="_testing_8c.html#a45c187c3c3c5f783f3f999f360ac4515"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="test_isMailValid"><param name="Local" value="_testing_8c.html#a8fc7b830d97ac20e1d0083b5aff46757"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="test_isNameValid"><param name="Local" value="_testing_8c.html#ab027d6fc3a967bfe59fef58f00c90d93"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="testingMain"><param name="Local" value="_testing_8c.html#a3e8a4e0e14562f844e9b3dd20e129d90"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Testing.h"><param name="Local" value="_testing_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="clean_suite_dafault"><param name="Local" value="_testing_8h.html#a02e63450df87bbf0d3bf544ae1f2b84b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="init_suite_dafault"><param name="Local" value="_testing_8h.html#a3ad868078834b5a5ba7828dd7856a682"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="test_getMusicGenreIndex"><param name="Local" value="_testing_8h.html#ac18a011d7aeeb0970f49e7abaee8ae99"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="test_getMusicGenreName"><param name="Local" value="_testing_8h.html#acd0e33d43a8b6a6fad99578550edb7d7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="test_isDateValid"><param name="Local" value="_testing_8h.html#ac4782013c69c8cc2a69f19685c804394"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="test_isLeapYear"><param name="Local" value="_testing_8h.html#a45c187c3c3c5f783f3f999f360ac4515"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="test_isMailValid"><param name="Local" value="_testing_8h.html#a8fc7b830d97ac20e1d0083b5aff46757"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="test_isNameValid"><param name="Local" value="_testing_8h.html#ab027d6fc3a967bfe59fef58f00c90d93"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="testingMain"><param name="Local" value="_testing_8h.html#a3e8a4e0e14562f844e9b3dd20e129d90"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="User"><param name="Local" value="dir_f61b6c7f243d4facbedc2ed116b8d7a5.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="User.c"><param name="Local" value="_user_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addFavourite"><param name="Local" value="_user_8c.html#a04c289885d869a6335c48716afbbbc05"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addPlaylist"><param name="Local" value="_user_8c.html#a72ab80a5da53d5bc94eafe1d0f330716"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addSongToPlaylist"><param name="Local" value="_user_8c.html#a8e41ed628363d598f3d21ad6f5b6904e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addToUsersFile"><param name="Local" value="_user_8c.html#ab30d791a8eb4ab4c47263c3a34d6e718"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addUser"><param name="Local" value="_user_8c.html#a3b721a8dce73f9db55b1bec1b0c71962"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getNickname"><param name="Local" value="_user_8c.html#a39c4cbdc890c92ba84bcc4321f5e4b00"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getUserIdByNickname"><param name="Local" value="_user_8c.html#ac0fa8123f7a23f7758a0acdb57e712d7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="loadPlaylistsFromFile"><param name="Local" value="_user_8c.html#abb737d70fce1049d7d348085515c8268"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="loadUsersFromFile"><param name="Local" value="_user_8c.html#ada443c04954f0db43e4109a0bfeac05a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="logIn"><param name="Local" value="_user_8c.html#a11ebe4dbaa30d1c70bddfa4881b59577"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="logOut"><param name="Local" value="_user_8c.html#ada45f2e13965b07a59b860bff2c7d4d7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="modifyFavourites"><param name="Local" value="_user_8c.html#aff10f872b0042f884a9e1bcbb466582e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="modifyPlaylist"><param name="Local" value="_user_8c.html#a80cace9e0e123cf2c60a13812e5bf9d0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="modifyUser"><param name="Local" value="_user_8c.html#a6cbfba9843bd0bab956fac40b053aa0b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="modifyUsersFile"><param name="Local" value="_user_8c.html#a678b8b95a3435d9be95ea3dfce77e49b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printPlaylistsToScreen"><param name="Local" value="_user_8c.html#a0548d6900c63ae78c3c88fb343c8ef15"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printPublicPlaylistsToScreen"><param name="Local" value="_user_8c.html#a30071db7a3d3e03c513d0e411688cc37"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printSongsOfGenre"><param name="Local" value="_user_8c.html#a8f23cb33e78b0c3d0905a6388f11f7d5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printUsersArray"><param name="Local" value="_user_8c.html#a83d5903b033b0954287893c971ea8366"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printUsersList"><param name="Local" value="_user_8c.html#a28c3a81fadcce2f0842dd943a651cbb4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printUserToScreen"><param name="Local" value="_user_8c.html#aad0132bac6ef3342946b5d13c61618aa"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="removeFavourite"><param name="Local" value="_user_8c.html#a4bfa8ddf4648a18191c6404819fbec12"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="removePlaylist"><param name="Local" value="_user_8c.html#aaedf7f993e2b26463ae7c3fb12770bf6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="removeSongFromPlaylist"><param name="Local" value="_user_8c.html#a28858f88802e6e703d98dff450d82f22"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="savePlaylistsToFile"><param name="Local" value="_user_8c.html#a2007f00ae739df5a13813a40dfce60bb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchInPlaylists"><param name="Local" value="_user_8c.html#a6736a474c0f04045f2a9fae80da9fd92"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchInUsers"><param name="Local" value="_user_8c.html#a6fe52afb50a44f71b0f7699687cff267"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="writePlaylistToFile"><param name="Local" value="_user_8c.html#acb551b2ec4ca6532b06509e6dabaadda"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="User.h"><param name="Local" value="_user_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Playlist"><param name="Local" value="struct_playlist.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="isPrivate"><param name="Local" value="struct_playlist.html#a9aa2158bfc31b4b9315acb4654b963f1"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="struct_playlist.html#abf45f72a84e0204cfe9f18005dff9eb7"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="numberOfSongs"><param name="Local" value="struct_playlist.html#ac8a9ff598f84ab80a14e5b497e903618"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ownerNickname"><param name="Local" value="struct_playlist.html#af2ce40c05803b348292172c589f102dc"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="songs"><param name="Local" value="struct_playlist.html#a90cc1bdb084411dc5f830b3361d34934"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="User"><param name="Local" value="struct_user.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="birthDate"><param name="Local" value="struct_user.html#ab7c87186af8bdb92822402b2e93e9b64"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="email"><param name="Local" value="struct_user.html#a9472d247b982b134e31dc7d67184be19"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="favouriteSongs"><param name="Local" value="struct_user.html#af8fc276843057381b04ff11428640e63"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="struct_user.html#a643f85779a4693855c171c396f49e515"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="nickname"><param name="Local" value="struct_user.html#a344cb1559ebd8f4d90106544a3f6b541"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="numberOfFavouriteSongs"><param name="Local" value="struct_user.html#ad4d1e9d4a0c757062dcaf92dbf5179f3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="numberOfPlaylists"><param name="Local" value="struct_user.html#ac8b21afe01363393b6ded7e171ad6af4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="playlists"><param name="Local" value="struct_user.html#a63fc09ae95c006ab72b89bfe02385e9f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="sex"><param name="Local" value="struct_user.html#a02fcc5c7fab78cf4ea1a4298d451ce0d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="surname"><param name="Local" value="struct_user.html#a1f2a9a8d8add432f2922572d930138aa"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="MAX_PLAYLIST_NUMBER"><param name="Local" value="_user_8h.html#a8553a4703b915902d4e22246198c8972"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="MAX_USERS_NUMBER"><param name="Local" value="_user_8h.html#a9356a1bddc4ac3851f415fdcca0f0823"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Playlist"><param name="Local" value="_user_8h.html#a7c2f6e84d8f0df26ab62633d85062c1e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="User"><param name="Local" value="_user_8h.html#aa97b599f3a380ed43ac18edfc944482e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addFavourite"><param name="Local" value="_user_8h.html#a04c289885d869a6335c48716afbbbc05"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addPlaylist"><param name="Local" value="_user_8h.html#a72ab80a5da53d5bc94eafe1d0f330716"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addSongToPlaylist"><param name="Local" value="_user_8h.html#a8e41ed628363d598f3d21ad6f5b6904e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addToUsersFile"><param name="Local" value="_user_8h.html#ab30d791a8eb4ab4c47263c3a34d6e718"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addUser"><param name="Local" value="_user_8h.html#a3b721a8dce73f9db55b1bec1b0c71962"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getNickname"><param name="Local" value="_user_8h.html#a39c4cbdc890c92ba84bcc4321f5e4b00"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getUserIdByNickname"><param name="Local" value="_user_8h.html#ac0fa8123f7a23f7758a0acdb57e712d7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="loadPlaylistsFromFile"><param name="Local" value="_user_8h.html#abb737d70fce1049d7d348085515c8268"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="loadUsersFromFile"><param name="Local" value="_user_8h.html#ada443c04954f0db43e4109a0bfeac05a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="logIn"><param name="Local" value="_user_8h.html#a11ebe4dbaa30d1c70bddfa4881b59577"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="logOut"><param name="Local" value="_user_8h.html#ada45f2e13965b07a59b860bff2c7d4d7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="modifyFavourites"><param name="Local" value="_user_8h.html#aff10f872b0042f884a9e1bcbb466582e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="modifyPlaylist"><param name="Local" value="_user_8h.html#a80cace9e0e123cf2c60a13812e5bf9d0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="modifyUser"><param name="Local" value="_user_8h.html#a6cbfba9843bd0bab956fac40b053aa0b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="modifyUsersFile"><param name="Local" value="_user_8h.html#a678b8b95a3435d9be95ea3dfce77e49b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printPlaylistsToScreen"><param name="Local" value="_user_8h.html#a0548d6900c63ae78c3c88fb343c8ef15"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printPublicPlaylistsToScreen"><param name="Local" value="_user_8h.html#ae96d03180bc5fa3bd98f47f32979b9af"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printSongsOfGenre"><param name="Local" value="_user_8h.html#a8f23cb33e78b0c3d0905a6388f11f7d5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printUsersArray"><param name="Local" value="_user_8h.html#a83d5903b033b0954287893c971ea8366"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="printUserToScreen"><param name="Local" value="_user_8h.html#aad0132bac6ef3342946b5d13c61618aa"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="removeFavourite"><param name="Local" value="_user_8h.html#a4bfa8ddf4648a18191c6404819fbec12"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="removePlaylist"><param name="Local" value="_user_8h.html#aaedf7f993e2b26463ae7c3fb12770bf6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="removeSongFromPlaylist"><param name="Local" value="_user_8h.html#a28858f88802e6e703d98dff450d82f22"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="savePlaylistsToFile"><param name="Local" value="_user_8h.html#a2007f00ae739df5a13813a40dfce60bb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchInPlaylists"><param name="Local" value="_user_8h.html#a6736a474c0f04045f2a9fae80da9fd92"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="searchInUsers"><param name="Local" value="_user_8h.html#a6fe52afb50a44f71b0f7699687cff267"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="writePlaylistToFile"><param name="Local" value="_user_8h.html#acb551b2ec4ca6532b06509e6dabaadda"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Utilities"><param name="Local" value="dir_309f03020ae3470080d86a62823b1b72.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Utilities.c"><param name="Local" value="_utilities_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="checkWithRegEx"><param name="Local" value="_utilities_8c.html#a5d2694527c1189e01006f302d24c0c15"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="doesFileExists"><param name="Local" value="_utilities_8c.html#a7c4922d5c96f62cc0094032b2c5d702e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getChoice"><param name="Local" value="_utilities_8c.html#a3d489d2592d5f75d402938760ab7e413"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getDate"><param name="Local" value="_utilities_8c.html#a4a54f52996492cdc8a704b68ff5d43dd"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getGenre"><param name="Local" value="_utilities_8c.html#ad7a4ac38b0a4b149d0bdd3df6adf5c08"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getInt"><param name="Local" value="_utilities_8c.html#a17f6059ab152378f9eddb3ff48323b3e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getMail"><param name="Local" value="_utilities_8c.html#a7dba5adcae5b42beb1c1a197fec6181c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getMusicGenreIndex"><param name="Local" value="_utilities_8c.html#a1f277e0431e1b73cdd4bc5b892665f19"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getMusicGenreName"><param name="Local" value="_utilities_8c.html#a4ab98e7501e1abd8f907c9e3c975ebe7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getName"><param name="Local" value="_utilities_8c.html#af94c3832427faf145bd957c13a6d82f3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getSex"><param name="Local" value="_utilities_8c.html#a54d8d2bfa6fdd2439f774fd9610a5656"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="isDateValid"><param name="Local" value="_utilities_8c.html#a6fd6907fba69a646ed0aa73241a47f98"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="isLeapYear"><param name="Local" value="_utilities_8c.html#ae2f7c9a7e17225bac3e3f9a506b8a829"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="isMailValid"><param name="Local" value="_utilities_8c.html#adfd4f8d9c6c4a2b1b7eb8c0dad84fbb4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="isNameValid"><param name="Local" value="_utilities_8c.html#aff4219ff8a473f519287c6f780a001dd"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Utilities.h"><param name="Local" value="_utilities_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Date"><param name="Local" value="struct_date.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="day"><param name="Local" value="struct_date.html#a5b192adcabf2b2871e3f0b76c1ec1601"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="month"><param name="Local" value="struct_date.html#a533843e07c6ac8d19fee9b16f5336ba2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="year"><param name="Local" value="struct_date.html#a3eeced2ed56bc95d56782b9e738db8ea"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="MAX_CODE_LENGTH"><param name="Local" value="_utilities_8h.html#ac6b198b82193be1555261decfc2f4078"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="MAX_STRING_LENGTH"><param name="Local" value="_utilities_8h.html#a6789ebc0df71a8ef76bfbb4fb5f74aad"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Date"><param name="Local" value="_utilities_8h.html#a88c76723599deadab92dbed1fea682ba"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Genre"><param name="Local" value="_utilities_8h.html#ab5ba68436be7bdf57f72d5c3fa8d6d45"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Sex"><param name="Local" value="_utilities_8h.html#ac4095d3ad213065db499a5fc8eafe748"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="string"><param name="Local" value="_utilities_8h.html#a861556f06af4cff43e50afca5cf45826"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Genre"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbd"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="BLUES"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda740d9b7cfa15179d19256d186cdc6e60"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CLASSIC"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda5d5a8aa8f016711cf286fd27974f0298"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HEAVY_METAL"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda23761a1d90b406431b1ea8f150629348"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="HIP_HOP"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda20c9b85ebd46fc8f61f55700d82df598"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="JAZZ"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbdabe6f1fd008b7070f5611e08345f569d4"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="POP"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda061dcf4785583d8653942f2d252174fa"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="PUNK"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbda820a42cb847b105223022c0ed3d979d5"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ROCK"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbdab39e373af8c527684a4f0ded36bd961c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="INVALID_GENRE"><param name="Local" value="_utilities_8h.html#a5cd9403a8971f75311aa139040d38bbdad121a9a8211242c823ceb647ffed0456"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Sex"><param name="Local" value="_utilities_8h.html#a2633cb393c68bb2ee8080db58fb7ba93"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="MALE"><param name="Local" value="_utilities_8h.html#a2633cb393c68bb2ee8080db58fb7ba93a6e81fe1ef694726dd6f7246cfb42369f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="FEMALE"><param name="Local" value="_utilities_8h.html#a2633cb393c68bb2ee8080db58fb7ba93adebb817413857eea6331734b76793159"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="OTHER"><param name="Local" value="_utilities_8h.html#a2633cb393c68bb2ee8080db58fb7ba93adbf1dee1b8cd7ea3c82661943c7b74f4"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="checkWithRegEx"><param name="Local" value="_utilities_8h.html#a5d2694527c1189e01006f302d24c0c15"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="doesFileExists"><param name="Local" value="_utilities_8h.html#a7c4922d5c96f62cc0094032b2c5d702e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getChoice"><param name="Local" value="_utilities_8h.html#a3d489d2592d5f75d402938760ab7e413"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getDate"><param name="Local" value="_utilities_8h.html#a4a54f52996492cdc8a704b68ff5d43dd"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getGenre"><param name="Local" value="_utilities_8h.html#ad7a4ac38b0a4b149d0bdd3df6adf5c08"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getInt"><param name="Local" value="_utilities_8h.html#a17f6059ab152378f9eddb3ff48323b3e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getMail"><param name="Local" value="_utilities_8h.html#a7dba5adcae5b42beb1c1a197fec6181c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getMusicGenreIndex"><param name="Local" value="_utilities_8h.html#a1f277e0431e1b73cdd4bc5b892665f19"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getMusicGenreName"><param name="Local" value="_utilities_8h.html#a4ab98e7501e1abd8f907c9e3c975ebe7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getName"><param name="Local" value="_utilities_8h.html#af94c3832427faf145bd957c13a6d82f3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getSex"><param name="Local" value="_utilities_8h.html#a54d8d2bfa6fdd2439f774fd9610a5656"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="isDateValid"><param name="Local" value="_utilities_8h.html#a6fd6907fba69a646ed0aa73241a47f98"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="isLeapYear"><param name="Local" value="_utilities_8h.html#ae2f7c9a7e17225bac3e3f9a506b8a829"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="isMailValid"><param name="Local" value="_utilities_8h.html#adfd4f8d9c6c4a2b1b7eb8c0dad84fbb4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="isNameValid"><param name="Local" value="_utilities_8h.html#aff4219ff8a473f519287c6f780a001dd"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UdaWave.c"><param name="Local" value="_uda_wave_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="addSong"><param name="Local" value="_uda_wave_8c.html#a295866c4173156bb08aee2e66eef98d3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="main"><param name="Local" value="_uda_wave_8c.html#a840291bc02cba5474a4cb46a9b9566fe"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="menu"><param name="Local" value="_uda_wave_8c.html#a4d00c08db99146d9cdf6684908b540ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="modifySong"><param name="Local" value="_uda_wave_8c.html#a57ac8f9a33041f80a236c52e23a8b304"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="setConsoleTitle"><param name="Local" value="_uda_wave_8c.html#a74ba5761b1237c41a97f72a9887074bd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="APP_NAME"><param name="Local" value="_uda_wave_8c.html#ae91a24067772aea9da952f1fd740eed3"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Globals"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="globals_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Typedefs"><param name="Local" value="globals_type.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerations"><param name="Local" value="globals_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerator"><param name="Local" value="globals_eval.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Macros"><param name="Local" value="globals_defs.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

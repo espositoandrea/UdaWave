@@ -1,0 +1,69 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=UdaWave
+
+[WINDOWS]
+main="UdaWave","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+_song_8c_source.html
+_song_8h_source.html
+_testing_8c_source.html
+_testing_8h_source.html
+_user_8c_source.html
+_user_8h_source.html
+_utilities_8c_source.html
+_utilities_8h_source.html
+_uda_wave_8c_source.html
+_song_8c.html
+_song_8h.html
+_testing_8c.html
+_testing_8h.html
+_user_8c.html
+_user_8h.html
+_utilities_8c.html
+_utilities_8h.html
+_uda_wave_8c.html
+struct_date.html
+struct_playlist.html
+struct_song.html
+struct_song_1_1_duration.html
+struct_user.html
+dir_ddb4d7e95cc2d6c8e1ade10a20d7247d.html
+dir_4abd1bce97d82422f9deb395b096d3c0.html
+dir_68267d1309a1af8e8297ef4c3efbcdba.html
+dir_1c97eb94f5872989e95569a1d480e331.html
+dir_f61b6c7f243d4facbedc2ed116b8d7a5.html
+dir_309f03020ae3470080d86a62823b1b72.html
+index.html
+annotated.html
+classes.html
+functions.html
+functions_vars.html
+files.html
+globals.html
+globals_func.html
+globals_vars.html
+globals_type.html
+globals_enum.html
+globals_eval.html
+globals_defs.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png
