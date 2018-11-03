@@ -13,8 +13,8 @@
   <dt>Authors</dt>
   <dd>
     <ul>
-      <li>Andrea <strong>Esposito</strong></li>
-      <li>Graziano <strong>Montanaro</strong>
+      <li><a href="https://github.com/espositoandrea">Andrea <strong>Esposito</strong></a></li>
+      <li><a href="https://github.com/prewarning">Graziano <strong>Montanaro</strong></a></li>
     </ul>
     We are two <strong>I.C.T. students</strong> from <em>Taranto</em>. This software and documentation has been created as part of an exam.
   </dd>
