@@ -1,6 +1,7 @@
 # <img src="/src/resources/icon.png" alt="UdaWave Logo" width="50px"> UdaWave
 
 [![GitHub license](https://img.shields.io/github/license/mineand99/UdaWave.svg?style=for-the-badge)](https://github.com/mineand99/UdaWave/blob/master/LICENSE)
+[![Latest release](https://img.shields.io/github/release/espositoandrea/UdaWave.svg?style=for-the-badge)](https://github.com/espositoandrea/UdaWave/releases/latest)
 ![Software not mainteined](https://img.shields.io/maintenance/no/2018.svg?style=for-the-badge)
 
 ## Brief description
